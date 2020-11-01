@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59b5041b-d523-430e-a9c4-89c51639ea69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/counter/sandbox.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/counter/update.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/counter/view.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/message/mod.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="a6477d3d-37d5-4d00-84d4-30d5ea8707e4" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="f8h18o57" />
+  </component>
+  <component name="ProjectId" id="1ikzrsQZILhBLBkwCFxUyrmltIC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iced/examples" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Sandbox" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59b5041b-d523-430e-a9c4-89c51639ea69" name="Default Changelist" comment="" />
+      <created>1602466579447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602466579447</updated>
+      <workItem from="1602466580473" duration="3216000" />
+      <workItem from="1604201324490" duration="8832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1597" y="82" width="380" height="555" key="#com.intellij.ide.util.MemberChooser" timestamp="1604207555853">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1597" y="82" width="380" height="555" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1440@0.0.2560.1440" timestamp="1604207555853" />
+    <state x="1537" y="269" width="500" height="181" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1604207455226">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1537" y="269" width="500" height="181" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1440@0.0.2560.1440" timestamp="1604207455226" />
+    <state x="1578" y="473" width="430" height="477" key="FileChooserDialogImpl" timestamp="1604205453919">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1578" y="473" width="430" height="477" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1604205453919" />
+    <state x="1253" y="246" width="1030" height="838" key="SettingsEditor" timestamp="1604207400081">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1253" y="246" width="1030" height="838" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1604207400081" />
+    <state width="498" height="490" key="SwitcherDM" timestamp="1604211143883">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="498" height="490" key="SwitcherDM/0.0.2560.1440@0.0.2560.1440" timestamp="1604211143883" />
+    <state x="1477" y="452" width="629" height="566" key="find.popup" timestamp="1604211334583">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1477" y="452" width="629" height="566" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1604211334583" />
+  </component>
+</project>
